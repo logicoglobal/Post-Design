@@ -1,0 +1,23 @@
+.post__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 5px;
+  border-bottom: 1px solid #ccc;
+}
+.back__icon {
+  font-size: 2em;
+  color: #717171;
+}
+.post__header h3 {
+  color: #717171;
+  font-size: 18px;
+}
+.share__btn {
+  font-size: 15px;
+  font-weight: bold;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: #57acf9;
+}
